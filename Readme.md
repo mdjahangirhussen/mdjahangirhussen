@@ -6,6 +6,7 @@
 </p>
 
 ## :chart_with_upwards_trend: Current Stats
+<img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" width="260px" align="right"/>
 
 <br />
 <p align="center">
