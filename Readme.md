@@ -1,4 +1,6 @@
-
+<!--- banner --->
+<img src="./Jahangir-Hussen.jpg" alt="banner">
+<br/>
 
 
 
@@ -23,16 +25,17 @@
 
 
 <br />
-<p align="center">
+<!-- <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&fire=00F0FF&sideLabels=FF1CF7&currStreakNum=00F0FF&ring=00F0FF&currStreakLabel=00F0FF&sideNums=FF1CF7" />
-</p>
-
 ## :mailbox: Reach me out
+</p> -->
+
+
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mirhussainmurtaza/"><img height="50" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png?raw=true"></a>
+<!-- <a href="https://www.linkedin.com/in/mirhussainmurtaza/"><img height="50" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png?raw=true"></a>
 <a href="https://www.facebook.com/mirhussainmurtaza"><img height="50" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png?raw=true"></a>
-<a href="https://twitter.com/_mir_hussain_"><img height="50" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png?raw=true"></a>
+<a href="https://twitter.com/_mir_hussain_"><img height="50" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png?raw=true"></a> -->
 </p>
 
 ## :computer: Technologies I Master
